@@ -2,6 +2,6 @@
 
 Scoop bucket for some of my custom tools or apps I need
 
-# Installation
+## Installation
 
 `scoop bucket add Faustvii 'https://github.com/Faustvii/scoop-bucket.git'`
