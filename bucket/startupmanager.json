@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "url": "https://github.com/Faustvii/StartupManager/releases/download/1.0.0/StartupManager.zip",
     "bin": "StartupManager.exe",
-    "hash": "F77D8FB78FDCEAB32154E9BB7A85C398EF98ED8F7B5F4F7E8AD06C623D245EF3",
+    "hash": "f77d8fb78fdceab32154e9bb7a85c398ef98ed8f7b5f4f7e8ad06c623d245ef3",
     "shortcuts": [
         [
             "StartupManager.exe",
