@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/Faustvii/StartupManager",
-    "version": "1.0.0",
-    "url": "https://github.com/Faustvii/StartupManager/releases/download/1.0.0/StartupManager.zip",
+    "version": "1.1.0",
+    "url": "https://github.com/Faustvii/StartupManager/releases/download/1.1.0/StartupManager.zip",
     "bin": "StartupManager.exe",
-    "hash": "f77d8fb78fdceab32154e9bb7a85c398ef98ed8f7b5f4f7e8ad06c623d245ef3",
+    "hash": "2336f51abac710997e0c277a051046352906589b3fcc5b9af9bde3197fff8e3d",
     "shortcuts": [
         [
             "StartupManager.exe",
