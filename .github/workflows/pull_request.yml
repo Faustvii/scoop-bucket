@@ -7,9 +7,9 @@ jobs:
     name: PullRequestHandler
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-    - name: PullRequestHandler
-      uses: Ash258/Scoop-GithubActions@stable
-      env:
-        GITH_EMAIL: faustvii@privacyphoenix.com
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: actions/checkout@master
+      - name: PullRequestHandler
+        uses: Ash258/Scoop-GithubActions@stable
+        env:
+          GITH_EMAIL: faustvii@privacyphoenix.com
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
