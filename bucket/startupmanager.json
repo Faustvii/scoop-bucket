@@ -1,9 +1,9 @@
 {
     "homepage": "https://github.com/Faustvii/StartupManager",
-    "version": "1.4.0",
-    "url": "https://github.com/Faustvii/StartupManager/releases/download/1.4.0/StartupManager.zip",
+    "version": "1.4.1",
+    "url": "https://github.com/Faustvii/StartupManager/releases/download/1.4.1/StartupManager.zip",
     "bin": "StartupManager.exe",
-    "hash": "809d5d7b5a6088b8936a6ecb3f186c868fd95210be88cf68b155c4fbe4111370",
+    "hash": "b87f58b5c6dc1fde6dae728961e467a2f808ca35d21394989ea0976560163dab",
     "description": "A small utility made for managing startup programs in windows through a CLI interface",
     "shortcuts": [
         [
