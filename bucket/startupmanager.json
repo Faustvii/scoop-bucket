@@ -11,9 +11,9 @@
             "Startup Manager"
         ]
     ],
-    "depends": "dotnet-sdk",
     "suggest": {
-        "sudo": "sudo"
+        "sudo": "sudo",
+        "dotnet core sdk": "dotnet-sdk"
     },
     "checkver": "github",
     "autoupdate": {
